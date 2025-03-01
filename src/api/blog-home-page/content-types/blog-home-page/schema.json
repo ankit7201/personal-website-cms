@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "blog_home_pages",
+  "info": {
+    "singularName": "blog-home-page",
+    "pluralName": "blog-home-pages",
+    "displayName": "Blog Home Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_ui_components_link_with_images",
+  "info": {
+    "displayName": "LinkWithImage"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}

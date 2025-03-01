@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_ui_components_project_cards",
+  "info": {
+    "displayName": "ProjectCard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "tags": {
+      "type": "string"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "ui-components.link-with-image"
+    }
+  }
+}
